@@ -20,9 +20,9 @@ namespace ApiCore_JWTAuthentication.controller
 
         [AllowAnonymous]
         [HttpPost("authenticate")]
-        public IActionResult Authenticate([FromBody]AutheticateModel model)
+        public IActionResult Authenticate([FromBody]AuthenticateModel model)
         {
-            var user = _userService.Authenticate(model.Username, model.Password);
+            var user = _userService.Authenticate(model.UserName, model.Password);
 
             if (user == null)
             {
