@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj": {}
+    "C:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj": {}
   },
   "projects": {
-    "c:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj": {
+    "C:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj",
+        "projectUniqueName": "C:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj",
         "projectName": "ApiCore-JWTAuthentication",
-        "projectPath": "c:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj",
+        "projectPath": "C:\\Cursos\\C#\\ApiCore-JWTAuthentication\\ApiCore-JWTAuthentication.csproj",
         "packagesPath": "C:\\Users\\johnp\\.nuget\\packages\\",
-        "outputPath": "c:\\Cursos\\C#\\ApiCore-JWTAuthentication\\obj\\",
+        "outputPath": "C:\\Cursos\\C#\\ApiCore-JWTAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
